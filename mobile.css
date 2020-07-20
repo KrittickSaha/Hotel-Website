@@ -1,0 +1,115 @@
+#navbar {
+    text-align: center;
+    width: 100%;
+}
+
+
+#navbar .logo {
+    float:none;
+    font-size: 2rem;
+}
+
+#navbar ul,#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 10px;
+    border-bottom: #444 dotted 1 px;
+}
+
+/* Showcase */
+
+#showcase {
+    height: 100%;
+}
+
+#showcase .showcase-content {
+
+    padding-top: 40px;
+}
+#showcase .showcase-content p {
+    padding-bottom: 10px;
+    line-height: 2rem;
+}
+
+#showcase .showcase-content .btn {
+    font-size: 20px;
+    padding: 15px 25px;
+}
+
+
+
+
+/* Home Info */
+
+#home-info {
+    height: 550px;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    padding: 10px 30px;
+}
+
+#home-info .info-content h2 {
+    font-size: 3rem;
+    line-height: 1.2;
+    padding-bottom: 0px;
+}
+
+#home-info .info-content p {
+    padding: 30px;
+    line-height: 2rem;
+    font-size: 1.2rem;
+}
+
+/* Boxes */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* About */
+
+#about-info .info-right, #about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+/* L-heading */
+
+.l-heading {
+    text-align: center;
+    padding-bottom: 0;
+}
+
+/* Contact Info */
+
+
+#contact-info .container {
+    height: 750px;
+    overflow: hidden;
+}
+
+#contact-info .container .box {
+    padding: 20px;
+    margin: 0px;
+
+}
+
+#contact-info .box {
+    border-bottom: #444 dashed 1px;
+}
+
+#contact-info .box i {
+    padding: 0;
+}
+
+
